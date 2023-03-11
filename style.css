@@ -1,0 +1,22 @@
+table {
+border-collapse: collapse;
+background-color: rgb(202, 250, 250);
+}
+
+.table-headings{
+    background-color:blue ;
+    color: rgb(255, 255, 255);
+    font-family: lato;
+    border-collapse: collapse; 
+}
+
+input {
+    background-color: blue;
+    padding: 3px;
+    color: white;
+} 
+
+/* 
+input [type=submit], input[type=text] input[type=email], input[type=number] {
+    background-color: blue;
+} */
